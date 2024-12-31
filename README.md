@@ -41,10 +41,10 @@
   <a href="www.linkedin.com/in/devlong96" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="devLong-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/lo_ng7517/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="devLong-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:logn145236@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="devLong-email" />
   </a>
 </div>
@@ -53,5 +53,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/devlong-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>

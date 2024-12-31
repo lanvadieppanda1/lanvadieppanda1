@@ -32,6 +32,10 @@
 &nbsp;
 
 <br>
+<p align="center">
+  <img src="assets/header.png" alt="header"/>
+</p>
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <div align="center">

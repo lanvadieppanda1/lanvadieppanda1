@@ -48,10 +48,30 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="devLong-email" />
   </a>
 </div>
+<br>
+
+#### :octocat: My Github Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lanvadieppanda1">
+        <img src="https://github-readme-stats.vercel.app/api?username=lanvadieppanda1&show_icons=true&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lanvadieppanda1&theme=algolia" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+</table>
+
+---
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/devLong-quotes.svg" width="846" height="150" alt="devLong-mot-lap-trinh-vien-ASPNET FORM VB-advanced" />
+  <img src="svg/devLong-quotes.svg" width="846" height="150" alt="devLong-mot-lap-trinh-vien-ASPNET FORM VB-stack-advanced" />
 </a>

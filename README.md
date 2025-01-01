@@ -80,7 +80,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lanvadieppanda1&row=1&margin-w=40&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-<a href="#" target="_blank">
-  <img src="svg/devLong-quotes.svg" width="846" height="150" alt="devLong-mot-lap-trinh-vien-ASPNET FORM VB-stack-advanced" />
-</a>
+<br>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">

@@ -74,8 +74,6 @@
 ---
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lanvadieppanda1&row=1&margin-w=40&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
